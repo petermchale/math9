@@ -2,6 +2,8 @@ temp
 syllabus
 texts 
 
+Getting started with iPython Notebook.ipynb
+
 *.eml*
 .idea*
 *.m
