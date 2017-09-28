@@ -1,0 +1,14 @@
+temp
+syllabus
+texts 
+
+*.eml*
+.idea*
+*.m
+.DS*
+*__pycache*
+*.ipynb_checkpoints*
+*.webloc*
+*.pages
+*.rtf
+
