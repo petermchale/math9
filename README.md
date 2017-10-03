@@ -49,6 +49,8 @@ However, if you would like to read a book to help you with the course, I recomme
 
 ## Schedule
 
+If time permits, I will try to indicate relevant sections of Shapiro's book in the column entitled `Sections`.
+
 Click on the links to see nbviewer-rendered versions of the lecture. 
 
 |Wk|Date|Lec|Sections|Topics
@@ -69,7 +71,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |5|10/30|||Review of previous exams
 ||11/1||L1 - L13|Midterm Exam
 ||11/3|14||Classes
-||6|11/6|15||Lists of lists, Numpy arrays, matplotlib
+|6|11/6|15||Lists of lists, Numpy arrays, matplotlib
 ||11/8|16||More numpy and matplotlib, plot, showimg, apply along axis
 ||11/10||No class|Veterans’ Day
 |7|11/13|17||More about slicing numpy arrays, working with images, historams
