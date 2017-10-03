@@ -14,15 +14,13 @@ Your TA will help you with this.
 If on your own machine, install Python and Jupyter by installing 
 [Anaconda](https://www.continuum.io/downloads) (Python 3.x version).
  Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing.
+Please 
+[create a conda environment using Python 2.x](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
+Your TA will help you with this.
 
 If you are working at a lab computer, which already has Python and Jupyter installed, then 
 type `python --version` at the command prompt to 
-check the version of Python that is installed. It will probably say Python 2.x. I am using Python 3.x. 
-The differences are not large, so you could go ahead and use Python 2.x. 
-Alternatively, you could 
-[create a conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) and [activate it](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
-However, I am not sure that this environment will persist between login sessions. 
-Your TA will help you with this. 
+check the version of Python that is installed. It will hopefully say Python 2.x, which is what we will use in this course. 
 
 Open a Jupyter notebook by navigating to the directory in which it is located (the `cd` command is useful here, 
 as is the `ls` command in `Terminal` or equivalently, the `dir` command in Windows)
