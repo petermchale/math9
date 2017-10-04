@@ -16,8 +16,6 @@ To download files from this site,
 open the file in GitHub, 
 click on the `Raw` button, 
 and right-click `Save Page As...`.
-Make sure the file is saved with the correct filename extension 
+Make sure the file is saved with the correct filename extension.
 For example, the extension in the filename `libmath9.py` is `.py`.  
-(you may need to set the `Format` dropdown in your dialog box to 
-`Page Source` and edit the file name in the dialog box 
-to have the correct filename extension. 
+(You may need to set the `Format` dropdown in your download dialog box to `Page Source` and edit the file name in the dialog box to have the correct filename extension.) 
