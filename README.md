@@ -55,7 +55,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |---|---|---|---|---
 |0|9/29|1||[Markdown vs code cell, math operators, library functions, strings](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture01.ipynb)
 |1|10/2|2||[Variables, types, functions](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture02.ipynb)
-||10/4|3||[Tracking variables, graphing, conditional statements, comparisons, boolean ops](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture03.ipynb)
+||10/4|3||[Tracking variables, graphing, if-else, comparisons, boolean ops](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture03.ipynb)
 ||10/6|4||While loops, checking for primeness
 |2|10/9|5||Don't use == on floats, algorithm first, division with remainder
 ||10/11|6||Checking primes more efficiently, Euclidean Algorithm
