@@ -10,12 +10,10 @@ nbviewer will render the notebook, math and all.
 For your convenience, I'll provide links to the nbviewer-version of each 
 lecture in the [course schedule](../README.md#schedule). 
 
-# Interacting with the lecture notebooks
+# Downloading files 
 
-In lab/discussion section, 
-we will learn how to view, edit and run Jupyter notebooks. 
-To download Jupyter notebooks from this site, 
-open the notebook in GitHub, 
+To download files from this site, 
+open the file in GitHub, 
 click on the `Raw` button, 
 and right-click `Save Page As...`.
 
