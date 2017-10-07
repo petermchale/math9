@@ -6,5 +6,4 @@ uncompress the [zip file](https://en.wikipedia.org/wiki/Zip_(file_format)),
 navigate to the HWXX directory, 
 open the HWXX.ipynb file using Jupyter, 
 and follow the instructions in the Notebook. 
-
-Deadlines are indicated at the Dropbox site referenced in the Notebooks. 
+Deadline is indicated at the Dropbox site referenced in the Notebook. 
