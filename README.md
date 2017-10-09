@@ -59,7 +59,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |1|10/2|2||[Variables, types, functions](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture02.ipynb)
 ||10/4|3||[Tracking variables, graphing, if-else, comparisons, boolean ops](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture03.ipynb)
 ||10/6|4||[While loops, checking for primeness](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture04.ipynb)
-|2|10/9|5||[Don't use == on floats, division with remainder case study]()
+|2|10/9|5||[Don't use == on floats, division with remainder case study](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture05.ipynb)
 ||10/11|6||Checking primes more efficiently, Euclidean Algorithm
 ||10/13|7||Break and continue, lists, for loops
 |3|10/16|8||List comprehension, mutable vs. immutable
