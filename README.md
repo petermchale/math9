@@ -63,7 +63,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||10/11|6||[Checking primes more efficiently, Euclids Algorithm](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture06.ipynb)
 ||10/13|7||[Break and continue, lists](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture07.ipynb)
 |3|10/16|8||[List comprehension, mutable vs. immutable](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture08.ipynb)
-||10/18|9||More on mutables, binary numbers, selection-sort
+||10/18|9||[More on mutable vs immutable, selection-sort](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture09.ipynb)
 ||10/20|10||Sorting, complexity, big-O notation
 |4|10/23|11||Recursion
 ||10/25|12||Flattening lists with recursion, map, reduce, filter
