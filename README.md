@@ -65,7 +65,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |3|10/16|8||[List comprehension, mutable vs. immutable](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture08.ipynb)
 ||10/18|9||[More on mutable vs immutable, selection-sort](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture09.ipynb)
 ||10/20|10||[Selection sort, algorithm complexity](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture10.ipynb)
-|4|10/23|11||Recursion
+|4|10/23|11||[Recursion](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture11.ipynb)
 ||10/25|12||Flattening lists with recursion, map, reduce, filter
 ||10/27|13||More functional programming methods, map, reduce, filter
 |5|10/30|||Review of previous exams
