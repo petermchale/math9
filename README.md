@@ -84,7 +84,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/29|23||Linear Regression
 ||12/1|24||Solving linear regression by gradient descent
 |10|12/4|25||Singular Value Decomposition, Principal Component Analysis, Eigenfaces
-|9|12/6|26||Matlab tutorial, key differences with Python
+||12/6|26||Matlab tutorial, key differences with Python
 ||12/8|27||Review of previous exams
 |11|12/11||L1 - L27|Final Exam 10.30am – 12.30pm
 
