@@ -6,6 +6,9 @@ new_material
 
 Getting started with iPython Notebook.ipynb
 
+*.aux
+*.log
+*.gz
 *.pyc*
 *.eml*
 .idea*
