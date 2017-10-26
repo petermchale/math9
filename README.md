@@ -60,14 +60,14 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||10/4|3||[Tracking variables, graphing, if-else, comparisons, boolean ops](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture03.ipynb)
 ||10/6|4||[While loops, checking for primeness](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture04.ipynb)
 |2|10/9|5||[Don't use == on floats, division with remainder case study](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture05.ipynb)
-||10/11|6||Checking primes more efficiently, Euclidean Algorithm
-||10/13|7||Break and continue, lists, for loops
-|3|10/16|8||List comprehension, mutable vs. immutable
-||10/18|9||More on mutables, binary numbers, selection-sort
-||10/20|10||Sorting, complexity, big-O notation
-|4|10/23|11||Recursion
-||10/25|12||Flattening lists with recursion, map, reduce, filter
-||10/27|13||More functional programming methods, map, reduce, filter
+||10/11|6||[Checking primes more efficiently, Euclids Algorithm](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture06.ipynb)
+||10/13|7||[Break and continue, lists](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture07.ipynb)
+|3|10/16|8||[List comprehension, mutable vs. immutable](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture08.ipynb)
+||10/18|9||[More on mutable vs immutable, selection-sort](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture09.ipynb)
+||10/20|10||[Selection sort, algorithm complexity](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture10.ipynb)
+|4|10/23|11||[Recursion](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture11.ipynb)
+||10/25|12||Help with HW03/Discussion session
+||10/27|13||Flattening lists with recursion; map, reduce, filter
 |5|10/30|||Review of previous exams
 ||11/1||L1 - L13|Midterm Exam
 ||11/3|14||Classes
@@ -84,7 +84,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/29|23||Linear Regression
 ||12/1|24||Solving linear regression by gradient descent
 |10|12/4|25||Singular Value Decomposition, Principal Component Analysis, Eigenfaces
-|9|12/6|26||Matlab tutorial, key differences with Python
+||12/6|26||Matlab tutorial, key differences with Python
 ||12/8|27||Review of previous exams
 |11|12/11||L1 - L27|Final Exam 10.30am – 12.30pm
 
