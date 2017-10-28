@@ -67,7 +67,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||10/20|10||[Selection sort, algorithm complexity](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture10.ipynb)
 |4|10/23|11||[Recursion](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture11.ipynb)
 ||10/25|12||Help with HW03/Discussion session
-||10/27|13||Flattening lists with recursion; map, reduce, filter
+||10/27|13||[Flattening lists with recursion; map, reduce, filter](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture13.ipynb)
 |5|10/30|||Review of previous exams
 ||11/1||L1 - L13|Midterm Exam
 ||11/3|14||Classes
