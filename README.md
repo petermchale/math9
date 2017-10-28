@@ -18,8 +18,7 @@ Please type
 ```
 conda create -n math9 python=2 ipython-notebook --yes
 ```
-at the Terminal (Mac) or Anaconda (Windows) prompt to  
-create a conda environment using Python 2. 
+at the Terminal (Mac) or Anaconda (Windows) prompt to create a conda environment using Python 2. 
 Then [activate the environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment).
 Your TA will help you with this.
 
