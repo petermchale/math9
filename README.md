@@ -74,7 +74,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||10/27|13||[Flattening lists with recursion; map, reduce, filter](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture13.ipynb)
 |5|10/30|||Review of previous exams
 ||11/1||L1 - L13|Midterm Exam
-||11/3|14||Classes
+||11/3|14||[Classes](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture14.ipynb)
 |6|11/6|15||Lists of lists, Numpy arrays, matplotlib
 ||11/8|16||More numpy and matplotlib, plot, showimg, apply along axis
 ||11/10||No class|Veterans’ Day
