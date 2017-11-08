@@ -75,8 +75,8 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |5|10/30|||Review of previous exams
 ||11/1||L1 - L13|Midterm Exam
 ||11/3|14||[Classes](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture14.ipynb)
-|6|11/6|15||Lists of lists, Numpy arrays, matplotlib
-||11/8|16||More numpy and matplotlib, faces dataset 
+|6|11/6|15||[Lists of lists, Numpy arrays, matplotlib](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture15.ipynb)
+||11/8|16||[More numpy and matplotlib, faces dataset](https://github.com/petermchale/math9/blob/master/lectures/Lecture16.ipynb)
 ||11/10||No class|Veterans’ Day
 |7|11/13|17||More about slicing numpy arrays, working with images, historams
 ||11/15|18||Probability and randomness, random(), randomint
