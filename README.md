@@ -79,7 +79,7 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/8|16||[More numpy and matplotlib, faces dataset](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture16.ipynb)
 ||11/10||No class|Veterans’ Day
 |7|11/13|17||[Slicing, images, histograms](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture17.ipynb) 
-||11/15|18||Probability and randomness, random(), randomint
+||11/15|18||[Probability and randomness](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture18.ipynb)
 ||11/17|19||Choice, mean and std of data-set, random simulations
 |8|11/20|20||Random walks
 ||11/22|21||Law of large numbers and the central limit theorem
