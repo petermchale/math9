@@ -80,11 +80,11 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 ||11/10||No class|Veterans’ Day
 |7|11/13|17||[Slicing, images, histograms](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture17.ipynb) 
 ||11/15|18||[Probability and randomness](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture18.ipynb)
-||11/17|19||Choice, mean and std of data-set, random simulations
-|8|11/20|20||Random walks
-||11/22|21||Law of large numbers and the central limit theorem
+||11/17|19||[Choice, mean and std of data-set, fitting data](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture19.ipynb)
+|8|11/20|20||[Random walks](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture20.ipynb)
+||11/22|21||[Law of large numbers and the central limit theorem](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture21.ipynb)
 ||11/24||No class|Thanksgiving
-|9|11/27|22||Minimizing/maximizing functions, Gradient Descent
+|9|11/27|22||[Minimizing/maximizing functions, Gradient Descent](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture22.ipynb)
 ||11/29|23||Linear Regression
 ||12/1|24||Solving linear regression by gradient descent
 |10|12/4|25||Singular Value Decomposition, Principal Component Analysis, Eigenfaces
