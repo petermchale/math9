@@ -87,8 +87,8 @@ Click on the links to see nbviewer-rendered versions of the lecture.
 |9|11/27|22||[Minimizing/maximizing functions, Gradient Descent](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture22.ipynb)
 ||11/29|23||[Linear Regression](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture23.ipynb)
 ||12/1|24||[Solving linear regression by gradient descent](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture24.ipynb)
-|10|12/4|25||[Singular Value Decomposition, Principal Component Analysis, Eigenfaces](https://github.com/petermchale/math9/blob/master/lectures/Lecture25.ipynb)
-||12/6|26||[Matlab tutorial, key differences with Python](https://github.com/petermchale/math9/blob/master/lectures/Lecture26.ipynb)
+|10|12/4|25||[Singular Value Decomposition, Principal Component Analysis, Eigenfaces](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture25.ipynb)
+||12/6|26||[Matlab tutorial, key differences with Python](http://nbviewer.jupyter.org/github/petermchale/math9/blob/master/lectures/Lecture26.ipynb)
 ||12/8|27||Review of previous exams
 |11|12/11||L1 - L27|Final Exam 10.30am – 12.30pm
 
